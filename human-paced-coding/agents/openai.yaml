@@ -1,0 +1,6 @@
+interface:
+  display_name: "Human-Paced Coding"
+  short_description: "Write code with Codex one function at a time."
+  default_prompt: "Use $human-paced-coding. Work with me step by step, do not generate whole files, and wait for confirmation after each function."
+policy:
+  allow_implicit_invocation: false
