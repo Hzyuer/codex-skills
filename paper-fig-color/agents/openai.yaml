@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Figure Colors"
+  short_description: "Apply consistent, accessible colors to academic figures."
+  default_prompt: "Use $paper-fig-color to select and apply a consistent palette to my academic figures."
